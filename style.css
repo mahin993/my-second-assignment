@@ -1,0 +1,22 @@
+
+
+
+/* -----------------------
+    popular collection style 
+------------------------------*/
+.product-rating{
+    display: flex;
+    align-items: center;
+}
+.rating-point{
+    margin-left: 10px;
+}
+.fa-star{
+    font-size: 12px;
+}
+.fa-star.filled{
+    color: goldenrod;
+}
+.fa-star.empty{
+    color: #AEAEAE;
+}
